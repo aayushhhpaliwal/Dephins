@@ -1,8 +1,11 @@
 import React from 'react'
+import ProductList from './Cards/ProductList'
 
 function ProductGrid() {
   return (
-    <div>ProductGrid</div>
+    <div className='Grid'>
+    <ProductList />
+    </div>
   )
 }
 

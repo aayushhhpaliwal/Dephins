@@ -1,0 +1,12 @@
+.Cards {
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+.Card {
+    min-width: 28rem;
+   
+}
+.prImage {
+    width: 300px;
+}

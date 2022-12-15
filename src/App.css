@@ -26,3 +26,42 @@
   ul {
     list-style-type: none;
   }
+
+  .ProductMain {
+    display: flex;
+    width: 100%;
+    /* justify-content: space-between; */
+    margin-top: 1%;
+  }
+
+  .SideBar {
+    width: 20%;
+    height: 100%;
+    background-color: rgb(0, 116, 116);
+  }
+
+.filter-search{
+  margin-top:10px;
+  margin-left:10px;
+}
+.search-box{
+  width:350px;
+  height: 30px;
+}
+.search-btn{
+  width:100px;
+  padding:11px;
+  background-color:#00A69C;
+  border:none;
+  color:white;
+}
+.Showcase {
+  margin: 2rem;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  }
+  .ProductSide{
+    width: 80%;
+  }
