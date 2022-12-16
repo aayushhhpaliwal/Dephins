@@ -1,0 +1,50 @@
+.RelatedCat
+{
+    border-radius: 20px;   
+}
+
+.CategoryMain{
+    height: 60px;
+}
+.Manufacture{
+    height: 0px;
+}
+.Strength{
+    height: 0px;
+}
+.Options{
+    height: auto;
+    background-color:white;
+    padding-bottom: 5px;
+}
+.RelatedCatMain{
+    height: 150px;
+}
+.RelatedBrandMain{
+    height: 95px;
+}
+.CategoryHeading
+{
+    font-size: 20px;
+    background-color: grey;
+    padding-left: 15px;
+    padding: 5px 0px;
+    text-align: center;
+}
+.SubC{
+    width: 100%;
+    margin-left: -20px;
+    padding-left: 10px;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+
+.SubC:hover {
+    background-color: #32B8AD;
+    border-radius: 5px;
+    
+}
+ul{
+    list-style-type: none;
+}

@@ -1,5 +1,7 @@
 import React from 'react'
 import "../App.css"
+import AccountCircleIcon from '@mui/icons-material/AccountCircle';
+
 
 function Navbar() {
   return (
@@ -21,7 +23,7 @@ function Navbar() {
     <div className="Login">
     <ul>
         <li>Login</li>
-        <li>Product</li>
+        <li><AccountCircleIcon /></li>
         </ul>
         </div>
     </div>
